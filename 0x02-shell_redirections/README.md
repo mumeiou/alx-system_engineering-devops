@@ -1,1 +1,2 @@
-some new shell redirection tasks
+#!/bin/bash
+echo Hello, World
